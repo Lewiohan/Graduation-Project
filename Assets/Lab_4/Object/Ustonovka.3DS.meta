@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 0a440d55060779643933efa10c7bd527
+timeCreated: 1481043617
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Corpus
+    100002: Datchik
+    100004: Display
+    100006: Grus002
+    100008: Grus1
+    100010: Line002
+    100012: Line003
+    100014: Line005
+    100016: Line007
+    100018: Line008
+    100020: Obolochka
+    100022: Revage
+    100024: Shtativ
+    100026: Start
+    100028: Start0
+    100030: Stop
+    100032: Stoyanka
+    100034: //RootNode
+    400000: Corpus
+    400002: Datchik
+    400004: Display
+    400006: Grus002
+    400008: Grus1
+    400010: Line002
+    400012: Line003
+    400014: Line005
+    400016: Line007
+    400018: Line008
+    400020: Obolochka
+    400022: Revage
+    400024: Shtativ
+    400026: Start
+    400028: Start0
+    400030: Stop
+    400032: Stoyanka
+    400034: //RootNode
+    2300000: Corpus
+    2300002: Datchik
+    2300004: Display
+    2300006: Grus002
+    2300008: Grus1
+    2300010: Line002
+    2300012: Line003
+    2300014: Line005
+    2300016: Line007
+    2300018: Line008
+    2300020: Obolochka
+    2300022: Revage
+    2300024: Shtativ
+    2300026: Start
+    2300028: Start0
+    2300030: Stop
+    2300032: Stoyanka
+    3300000: Corpus
+    3300002: Datchik
+    3300004: Display
+    3300006: Grus002
+    3300008: Grus1
+    3300010: Line002
+    3300012: Line003
+    3300014: Line005
+    3300016: Line007
+    3300018: Line008
+    3300020: Obolochka
+    3300022: Revage
+    3300024: Shtativ
+    3300026: Start
+    3300028: Start0
+    3300030: Stop
+    3300032: Stoyanka
+    4300000: Corpus
+    4300002: Obolochka
+    4300004: Display
+    4300006: Line002
+    4300008: Line003
+    4300010: Stoyanka
+    4300012: Shtativ
+    4300014: Grus1
+    4300016: Datchik
+    4300018: Stop
+    4300020: Start
+    4300022: Start0
+    4300024: Line005
+    4300026: Grus002
+    4300028: Revage
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
